@@ -1,15 +1,29 @@
 # CrypticChapters-WebD-Project
-![Screenshot 2023-07-24 205552](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/8dc8798b-b510-4aa0-ad7e-4fc3643f83b9)
-![Screenshot 2023-07-24 205715](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/91a7e171-8513-4ff1-a7f9-b1fb7f2fd694)
-![Screenshot 2023-07-24 205933](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/a762c9db-8f59-4afd-ab78-52e2bb8b5636)
-![Screenshot 2023-07-24 210023](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/b2b2c39d-2a11-4122-abb1-dab1b7e3d9bc)
-![Screenshot 2023-07-24 210137](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/d5f3ceb9-48e9-43f6-8674-1102788600ac)
-![Screenshot 2023-07-24 212226](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/e06444de-f92e-4622-9e69-![Screenshot 2023-07-24 212304](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/c2cc4d94-5b73-46a3-b922-ff6cf036cd46)
-4dbca3c55e62)
+![Screenshot 2023-07-24 205552](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/20144b67-b6f0-4486-a73f-017d0151b7ec)
 
-![Screenshot 2023-07-24 212353](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/96ef4410-b7b4-45c0-a980-670d01e35466)
-![Screenshot 2023-07-24 234321](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/e44a2d1d-d291-4c6c-8d73-f10610794657)
-![Screenshot 2023-07-25 180034](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/a9f7c54b-ba3f-49d9-b8a7-4a2969c7d42e)
+![Screenshot 2023-07-24 205715](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/07fccda9-148f-446c-b107-ddaa061b9d96)
+
+![Screenshot 2023-07-24 205933](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/2eed04ca-6c6a-4033-9fe3-acdc27402a1e)
+![Screenshot 2023-07-24 210023](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/1d77fb51-716b-465c-9a75-051fa42c656c)
+
+![Screenshot 2023-07-24 210137](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/224103a3-6030-44cd-94de-dcc4307e5657)
+![Screenshot 2023-07-24 212226](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/1e232b1d-57a4-46e6-a9eb-793f50bfb200)
+
+![Screenshot 2023-07-24 210216](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/b65268e3-8b2c-43a0-b03e-bb753a15830a)
+
+![Screenshot 2023-07-24 210751](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/eedde844-4e69-4291-af0b-c7d5eb7a29a8)
+![Screenshot 2023-07-24 212112](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/587fe512-66e0-467b-bdd4-84e847bc5e65)
+
+![Screenshot 2023-07-24 212226](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/d5eb44de-191e-44d3-95c2-f82ed22eb7d6)
+![Screenshot 2023-07-24 212304](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/85d56020-aabd-4a5a-9de8-4ee1a9f4805a)
+
+![Screenshot 2023-07-24 212353](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/5a80849e-efa1-4bf5-827d-827090ea1584)
+
+![Screenshot 2023-07-24 212425](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/bcd68ba7-d6ca-4ab7-b656-7a017c33121a)
+![Screenshot 2023-07-24 234321](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/1fc2e23e-d010-496b-b654-9ae2c6939269)
+![Screenshot 2023-07-25 180034](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/da36d372-a834-4a63-a110-6650bccb661e)
+![Screenshot 2023-07-25 184057](https://github.com/SharmaAarohi/CrypticChapters-WebD-Project/assets/122620269/e367049f-c055-4f68-be1b-998f6da0d7cb)
+
 
 The project's primary focus was on developing a user-friendly and visually engaging platform that catered to literary enthusiasts, students, researchers, and aficionados of Gothic Literature. Extensive research and meticulous planning laid the foundation for the project's methodology, encompassing requirements gathering, design, development, testing, and final deployment.
 
